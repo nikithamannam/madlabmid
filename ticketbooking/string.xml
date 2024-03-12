@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicketBookingApp</string>
+
+    <string name="select_source">Select Source</string>
+    <string-array name="source_array">
+        <item>Source 1</item>
+        <item>Source 2</item>
+        <!-- Add more sources as needed -->
+    </string-array>
+
+    <string name="select_destination">Select Destination</string>
+    <string-array name="destination_array">
+        <item>Destination 1</item>
+        <item>Destination 2</item>
+        <!-- Add more destinations as needed -->
+    </string-array>
+</resources>
