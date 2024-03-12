@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_courses"
+        android:src="@drawable/ic_courses"
+        android:title="Courses" />
+    <item
+        android:id="@+id/menu_admission"
+        android:src="@drawable/ic_admission"
+        android:title="Admission" />
+    <item
+        android:id="@+id/menu_faculty"
+        android:src="@drawable/ic_faculty"
+        android:title="Faculty" />
+</menu>
